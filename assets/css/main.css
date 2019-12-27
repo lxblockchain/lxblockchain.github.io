@@ -2301,8 +2301,10 @@ ul {
 }
 
 .tab_panel__content {
-    line-height: 25px;
+    line-height: 35px;
     margin: 0;
+    color: white;
+    font-size: 16px;
 }
 
 .ac-tab__panel {
